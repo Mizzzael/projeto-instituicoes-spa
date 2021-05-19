@@ -9,12 +9,10 @@
     "css:build": "npx tailwindcss build ./src/assets/css/tailwind.css -o ./src/assets/css/tailwind.bundle.css"
   },
   "dependencies": {
-    "axios": "^0.21.1",
     "core-js": "^3.6.5",
-    "gsap": "^3.6.1",
+    "jqwidgets-scripts": "^12.0.4",
     "vue": "^2.6.11",
-    "vue-router": "^3.2.0",
-    "jqwidgets-scripts": "^12.0.4"
+    "vue-router": "^3.2.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
